@@ -19,6 +19,8 @@ class Student {
         System.out.println("Student Age  : " + age);
     }
 }
+
+// studentAdmissionSystem
 public class StudentAdmissionSystem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

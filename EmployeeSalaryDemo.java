@@ -4,6 +4,7 @@ class InvalidSalaryException extends Exception {
     }
 }
 
+// employeeSalary
 public class EmployeeSalaryDemo {
 
     static void validateSalary(double salary) throws InvalidSalaryException {
