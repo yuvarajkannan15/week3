@@ -1,0 +1,125 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "fileHandle",
+            "request": "launch",
+            "mainClass": "FileHandling.fileHandle",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "file",
+            "request": "launch",
+            "mainClass": "file",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "fileread",
+            "request": "launch",
+            "mainClass": "fileread",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "filewr",
+            "request": "launch",
+            "mainClass": "filewr",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "StudentAdmissionSystem",
+            "request": "launch",
+            "mainClass": "StudentAdmissionSystem",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeSalaryDemo",
+            "request": "launch",
+            "mainClass": "EmployeeSalaryDemo",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "throe",
+            "request": "launch",
+            "mainClass": "throe",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "exception",
+            "request": "launch",
+            "mainClass": "exception",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "wrap",
+            "request": "launch",
+            "mainClass": "wrap",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "collegeeventregistration",
+            "request": "launch",
+            "mainClass": "collegeeventregistration",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "CollegeEventRegistration",
+            "request": "launch",
+            "mainClass": "CollegeEventRegistration",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "hs",
+            "request": "launch",
+            "mainClass": "hs",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "hash",
+            "request": "launch",
+            "mainClass": "hash",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "pa",
+            "request": "launch",
+            "mainClass": "pa",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "p1",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
