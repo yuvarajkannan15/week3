@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "buffer",
+            "request": "launch",
+            "mainClass": "buffer",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
             "name": "fileHandle",
             "request": "launch",
             "mainClass": "FileHandling.fileHandle",
