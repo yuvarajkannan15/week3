@@ -91,3 +91,41 @@
 #     b.append(i)
 # else:print("no duplicates found")
 #------------------------------------------
+# s="listen"
+# s1="silent"
+# print(sorted(s)==sorted(s1))
+#------------------------------------------
+# st = "aaabbcc"
+# a = []
+# i = 0
+# while i < len(st):
+#     count = 1
+#     while i + 1 < len(st) and st[i] == st[i + 1]:
+#         count += 1
+#         i += 1
+#     a.append(st[i])
+#     a.append(count)
+#     i += 1
+# print(a)
+#-------------------------------------------
+# stream=[0]*26
+# stream1=[0]*26
+# str="silent"
+# str1="listen"
+# for i in str.lower():
+#     stream[ord(i)-97] +=1
+# for i in str1.lower():
+#     stream1[ord(i)-97]+=1
+# if(stream==stream1):print("true")
+# else:print("false")
+#---------------------------------------
+# st = "aaabbcc"
+# out=""
+# stream=[0]*26
+# for i in st.lower():
+#     stream[ord(i)-97]+=1
+# for i in range (len(stream)):
+#     if(stream[i]>0):
+#       out +=chr(97+i)+str(stream[i])
+# print(out)
+#-----------------------------------------

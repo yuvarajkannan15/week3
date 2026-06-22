@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TrainingInstituteManagementSystem",
+            "request": "launch",
+            "mainClass": "TrainingInstituteManagementSystem",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
             "name": "buffer",
             "request": "launch",
             "mainClass": "buffer",
