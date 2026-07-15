@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "sample",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "File.sample",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "week4day2",
+            "request": "launch",
+            "mainClass": "week4day2",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "lamda",
+            "request": "launch",
+            "mainClass": "lamda",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
+            "name": "week",
+            "request": "launch",
+            "mainClass": "week",
+            "projectName": "week3_bdf0bc40"
+        },
+        {
+            "type": "java",
             "name": "TrainingInstituteManagementSystem",
             "request": "launch",
             "mainClass": "TrainingInstituteManagementSystem",
